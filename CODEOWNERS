@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Ankit-Kum-ar
+/src/backend/database.py      @Ankit-Kum-ar
+/src/backend/routers/auth.py  @Ankit-Kum-ar
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Ankit-Kum-ar
